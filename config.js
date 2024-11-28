@@ -7,17 +7,13 @@ import axios from 'axios'
 
 // Global variables
 global.owner = [
-  ['918360234087', 'WHITE', true], 
-  ['233208179431', 'Abraham Dwamena', true],
-  ['923184070915', '𝙎𝘼𝙇𝙈𝘼𝙉 𝘼𝙃𝙈𝘼𝘿 -(𝘼𝙝𝙢𝙢𝙞)', true], 
-  ['94789481495', '𝙼𝚉𝙽 𝙺𝙸𝙽𝙶 ⚡', true],
-  ['233533763772', 'Abraham Dwamena2', true],
-  ['233268374753', 'Abraham Dwamena3.0', true]
+  ['94760457315', 'WHITE', true], 
+  ['94752799279', 'Abraham Dwamena', true]
 ] 
 
-global.mods = ['923184070915', '94789481495', '923184474176', '233268374753', '233508488192'] 
-global.prems = ['923184070915', '233208179431', '94789481495', '918360234087', '233268374753']
-global.allowed = ['923184070915', '233208179431', '94789481495', '918360234087', '233268374753']
+global.mods = ['94760457315', '94752799279'] 
+global.prems = ['94760457315', '94752799279']
+global.allowed = ['94760457315', '94752799279']
 global.keysZens = ['c2459db922', '37CC845916', '6fb0eff124']
 global.keysxxx = global.keysZens[Math.floor(global.keysZens.length * Math.random())]
 global.keysxteammm = ['29d4b59a4aa687ca', '5LTV57azwaid7dXfz5fzJu', 'cb15ed422c71a2fb', '5bd33b276d41d6b4', 'HIRO', 'kurrxd09', 'ebb6251cc00f9c63']
@@ -51,16 +47,16 @@ global.APIKeys = {
 }
 
 // Sticker WM
-global.botname = 'XLICON-V2'
+global.botname = 'VIXEN-V2'
 global.premium = 'true'
-global.packname = 'XLICON TEAM' 
+global.packname = 'VIXEN TEAM' 
 global.author = '@XLICON-V2' 
 global.menuvid = 'https://telegra.ph/file/325630f66abc968eda8e2.mp4'
-global.igfg = '▢✓ Follow Our channel\nhttps://whatsapp.com/channel/0029VaE8GbCDzgTILE7OtC3e\n' 
-global.dygp = 'https://chat.whatsapp.com/BfH0KLkICn2BjmGFMRcGMW'
-global.fgsc = 'https://github.com/salmanytofficial/XLICON-V2-MD' 
-global.fgyt = 'https://youtube.com/@s4salmanyt'
-global.fgpyp = 'https://youtube.com/@s4salmanyt'
+global.igfg = '▢✓ Follow Our channel\nhttps://whatsapp.com/channel/0029VayFOP14o7qDPqOkSQ2a\n' 
+global.dygp = 'https://chat.whatsapp.com/HVbdM35fzrfKlXKyB8e2FF'
+global.fgsc = 'https://github.com/' 
+global.fgyt = 'https://youtube.com/'
+global.fgpyp = 'https://youtube.com/'
 global.fglog = 'XLICON.jpg' 
 global.thumb = fs.readFileSync('./XLICON.jpg')
 
